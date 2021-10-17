@@ -201,7 +201,6 @@ SC1,rtmp://59.124.75.136/sat/us261
 SC2,rtmp://59.124.75.136/sat/us271
 SC3,rtmp://59.124.75.136/sat/us281
 HBO-综合,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-BBC-News,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 索尼一台,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 索尼一台,http://50.7.161.82:8278/streams/d/sonyhd_pye/playlist.m3u8
 索尼动画,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
@@ -215,6 +214,7 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK日语,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+BBC News,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 美国CNBC新闻,http://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 韩国阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
