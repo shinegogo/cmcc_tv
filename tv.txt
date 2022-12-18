@@ -199,6 +199,7 @@ TVBS新闻,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86
 东森洋片,http://120.84.96.62:808/hls/33/index.m3u8?blog.ntnas.top
 东森洋片,http://120.84.96.78:808/hls/33/index.m3u8
 龙祥时代,http://120.84.96.62:808/hls/35/index.m3u8?blog.ntnas.top
+探索频道,http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
 靖天日本,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
 好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
